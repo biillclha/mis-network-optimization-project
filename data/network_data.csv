@@ -1,0 +1,9 @@
+source,target,weight,description
+Employee_PC,Internal_Router,2,Zay?f varsay?lan ?ifre
+Employee_PC,Web_Server,5,Güvenlik duvar? k?s?tlamalar? var
+Web_Server,Internal_Router,3,Eski versiyon SSH protokolü
+Web_Server,App_Server,4,Uygulama içi yetki yükseltme
+Internal_Router,HR_Database,2,Aç?k port zafiyeti
+Internal_Router,App_Server,3,Yamas?z servis
+App_Server,Domain_Controller,2,Ayr?cal?kl? hesap eri?imi (Privilege Escalation)
+HR_Database,Domain_Controller,6,S?k? a? izolasyonu

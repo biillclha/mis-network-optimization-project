@@ -1,0 +1,3 @@
+Hagberg, A. A., Schult, D. A., & Swart, P. J. (2008). Exploring Network Structure, Dynamics, and Function using NetworkX.
+
+Management Information Systems Network Optimization Lecture Notes.

@@ -1,0 +1,4 @@
+Analyzed Starting Point: Employee_PC
+Target Asset: Domain_Controller
+Critical Route: Employee_PC -> Internal_Router -> App_Server -> Domain_Controller
+Total Path Cost: 7
